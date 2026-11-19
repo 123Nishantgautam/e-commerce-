@@ -1,0 +1,16 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Order Management System",
+            "request": "launch",
+            "mainClass": "Main",
+            "classPaths": [
+                "$Auto",
+                "lib/**/*.jar"
+            ]
+        }
+    ]
+}
